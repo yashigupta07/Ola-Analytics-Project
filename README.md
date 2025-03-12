@@ -9,11 +9,15 @@ The project includes a Power BI dashboard, a SQL query for data preprocessing, a
 Files in the Repository-
  
 Ola Analytics Dashboard.pbix – The Power BI file containing interactive visualizations and insights.
+
 Ola Analytics Query.sql – SQL script used to clean, transform, and structure the dataset for analysis.
+
 Ola Dataset (100000 rows).xlsx – The raw dataset containing ride details such as trip duration, fare amount, distance, and customer information.
 
 Tools & Technologies-
  
 Power BI – For building the interactive data visualizations.
+
 SQL – Used for data cleaning, preprocessing, and transformation.
+
 Excel – Stores the raw dataset for easy data management.
