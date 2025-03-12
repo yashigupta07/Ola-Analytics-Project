@@ -1,6 +1,6 @@
 # Ola-Analytics-Project
 
-****Project Overview- ****
+**Project Overview- **
 
 The Ola Analytics Dashboard is a comprehensive data visualization project built using Power BI. It leverages a dataset of 100,000 ride records to provide in-depth insights into ride patterns, customer behavior, revenue trends, and operational performance.
 
